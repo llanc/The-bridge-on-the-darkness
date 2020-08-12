@@ -6,5 +6,6 @@ Unity Parkour游戏
 
 
 # 已停止维护
-欢迎试玩：
-https://www.coolapk.com/game/cn.llanc.Thebridgeonthedarkness
+
+~~欢迎试玩：
+https://www.coolapk.com/game/cn.llanc.Thebridgeonthedarkness~~
