@@ -4,7 +4,7 @@ Unity Parkour游戏
 * VisualStudio2015
 <hr>
 
-个人2016年软件齐鲁软件大赛作品
 
+# 已停止维护
 欢迎试玩：
 https://www.coolapk.com/game/cn.llanc.Thebridgeonthedarkness
